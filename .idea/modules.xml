@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/ejs.iml" filepath="$PROJECT_DIR$/.idea/ejs.iml" />
+      <module fileurl="file://$PROJECT_DIR$/trabajo_practico8/examen_parcial/examen_parcial.iml" filepath="$PROJECT_DIR$/trabajo_practico8/examen_parcial/examen_parcial.iml" />
+      <module fileurl="file://$PROJECT_DIR$/trabajo_practico10/trabajo_practico10.iml" filepath="$PROJECT_DIR$/trabajo_practico10/trabajo_practico10.iml" />
+      <module fileurl="file://$PROJECT_DIR$/trabajo_practico11/trabajo_practico11.iml" filepath="$PROJECT_DIR$/trabajo_practico11/trabajo_practico11.iml" />
+      <module fileurl="file://$PROJECT_DIR$/trabajo_practico12/trabajo_practico12.iml" filepath="$PROJECT_DIR$/trabajo_practico12/trabajo_practico12.iml" />
+      <module fileurl="file://$PROJECT_DIR$/trabajo_practico4/trabajo_practico4.iml" filepath="$PROJECT_DIR$/trabajo_practico4/trabajo_practico4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/trabajo_practico5/trabajo_practico5.iml" filepath="$PROJECT_DIR$/trabajo_practico5/trabajo_practico5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/trabajo_practico6/trabajo_practico6.iml" filepath="$PROJECT_DIR$/trabajo_practico6/trabajo_practico6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/trabajo_practico7/trabajo_practico7.iml" filepath="$PROJECT_DIR$/trabajo_practico7/trabajo_practico7.iml" />
+      <module fileurl="file://$PROJECT_DIR$/trabajo_practico8/trabajo_practico8.iml" filepath="$PROJECT_DIR$/trabajo_practico8/trabajo_practico8.iml" />
+      <module fileurl="file://$PROJECT_DIR$/trabajo_practico9/trabajo_practico9.iml" filepath="$PROJECT_DIR$/trabajo_practico9/trabajo_practico9.iml" />
+    </modules>
+  </component>
+</project>
